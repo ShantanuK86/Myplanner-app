@@ -1,0 +1,5 @@
+The custom-made TicTacToe widget is an excellent addition to the planner app as it provides an engaging and interactive way for users to take a break and enjoy a game of TicTacToe directly within the app. It adds a recreational element to the planner, allowing users to relax and have fun during their planning sessions.
+
+Using the TicTacToe widget is straightforward. Once added to the planner app, users can simply click on the squares within the widget to place their X or O marks. The game follows the traditional rules of TicTacToe, where the objective is to get three marks in a row, either horizontally, vertically, or diagonally. The widget also includes a dynamic status message that informs users about the current player and displays the winner when a game is won.
+
+With this widget, users can enjoy short gaming sessions, challenge themselves, or even play against others, adding an element of competition or collaboration within the planner app. It provides a refreshing break from planning tasks and encourages users to take a moment to relax and have some fun.
